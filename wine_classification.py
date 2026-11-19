@@ -15,3 +15,5 @@ print("Wine Classification Completed")
 print("Training samples:", len(X_train))
 print("Testing samples:", len(X_test))
 print("Accuracy:", accuracy_score(y_test, y_pred))
+
+print("Model Training Sucessfull")
